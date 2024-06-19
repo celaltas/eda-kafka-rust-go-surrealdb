@@ -1,0 +1,16 @@
+application:
+  host: "127.0.0.1"
+  port: 8080
+  storage: "uploads"
+
+database:
+  host: "127.0.0.1"
+  port: 8000
+  username: "root"
+  password: "root"
+  dbname: "ecommerce"    
+  namespace: "foo" 
+
+kafka:
+  broker: "localhost:9092" 
+  topic: "stock_update"    

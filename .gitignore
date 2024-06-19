@@ -1,0 +1,4 @@
+inventory_service/Cargo.lock
+inventory_service/target
+inventory_service/.env
+shipment_service/cmd/.env
